@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="total project:war" />
+      <artifact name="total project:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5e2cb977-6c58-455e-a182-9cfe54a78872" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/total project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/total project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +17,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1Ul7AJ5SnV7WTFA2wXuDeNrGC6N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -135,7 +138,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -153,12 +166,24 @@
       <option name="presentableId" value="Default" />
       <updated>1575919184650</updated>
       <workItem from="1575919191075" duration="2339000" />
-      <workItem from="1575921809942" duration="883000" />
+      <workItem from="1575921809942" duration="1598000" />
     </task>
+    <task id="LOCAL-00001" summary="web add">
+      <created>1575923331993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575923331993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="web add" />
+    <option name="LAST_COMMIT_MESSAGE" value="web add" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575921839940">
@@ -181,13 +206,69 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="560" y="279" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1366.728@0.0.1366.728" timestamp="1575921341084" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1575923325393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575923325393" />
     <state x="357" y="76" key="FileChooserDialogImpl" timestamp="1575921662608">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="357" y="76" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575921662608" />
+    <state width="905" height="179" key="GridCell.Tab.0.bottom" timestamp="1575923938587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575923938587" />
+    <state width="905" height="179" key="GridCell.Tab.0.center" timestamp="1575923938587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1575923938587" />
+    <state width="905" height="179" key="GridCell.Tab.0.left" timestamp="1575923938587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1575923938587" />
+    <state width="905" height="179" key="GridCell.Tab.0.right" timestamp="1575923938587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1575923938587" />
+    <state width="905" height="179" key="GridCell.Tab.1.bottom" timestamp="1575923938588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575923938588" />
+    <state width="905" height="179" key="GridCell.Tab.1.center" timestamp="1575923938587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1575923938587" />
+    <state width="905" height="179" key="GridCell.Tab.1.left" timestamp="1575923938587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1575923938587" />
+    <state width="905" height="179" key="GridCell.Tab.1.right" timestamp="1575923938587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1575923938587" />
+    <state width="905" height="179" key="GridCell.Tab.2.bottom" timestamp="1575923938588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575923938588" />
+    <state width="905" height="179" key="GridCell.Tab.2.center" timestamp="1575923938588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1575923938588" />
+    <state width="905" height="179" key="GridCell.Tab.2.left" timestamp="1575923938588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1575923938588" />
+    <state width="905" height="179" key="GridCell.Tab.2.right" timestamp="1575923938588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1575923938588" />
     <state x="241" y="0" key="SettingsEditor" timestamp="1575921929623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="241" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575921929623" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1575923349140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575923349140" />
   </component>
 </project>
