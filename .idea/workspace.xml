@@ -13,6 +13,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -165,7 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575919184650</updated>
       <workItem from="1575919191075" duration="2339000" />
-      <workItem from="1575921809942" duration="1968000" />
+      <workItem from="1575921809942" duration="2528000" />
     </task>
     <task id="LOCAL-00001" summary="web add">
       <created>1575923331993</created>
@@ -181,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575924154775</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="travis ci add">
+      <created>1575924452470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575924452470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,10 +234,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="560" y="279" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1366.728@0.0.1366.728" timestamp="1575921341084" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1575924150267">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1575924448248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575924150267" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1575924448248" />
     <state x="357" y="76" key="FileChooserDialogImpl" timestamp="1575924316584">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -273,9 +294,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="241" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575921929623" />
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1575924158076">
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2" timestamp="1575924456926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575924158076" />
+    <state x="275" y="88" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1575924456926" />
   </component>
 </project>
